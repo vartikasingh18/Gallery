@@ -9,7 +9,7 @@ class Person:
 class Student(Person):
     pass
 
-p1  = Student("Manakla", "Kumari", 22)
+p1  = Student("Vartika", "Singh", 20)
 
 p1.printname()
 
